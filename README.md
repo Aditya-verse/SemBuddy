@@ -7,7 +7,7 @@
 [![Gemini AI](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://aistudio.google.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-[✨ Live Preview on AI Studio](https://ai.studio/apps/drive/1Iclj6HcnZIUqOjas8jr_yfxLjhgaKuGz)
+
 
 ---
 
